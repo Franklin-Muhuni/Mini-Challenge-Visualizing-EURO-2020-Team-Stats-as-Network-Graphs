@@ -6,4 +6,4 @@ A small project where EURO Season 2020 match data is scraped off the web and re-
 </p>
 
 # Match Statistics
-The data from this project was taken from [UEFA.com](https://www.uefa.com/uefaeuro/history/seasons/2020/). The config.py file contains the piece of code that creates the links. The BeautifulSoup4, aiohttp and asyncio modules were used to asyncronously issue requests and extract data from each match played in the tournament.
+The data from this project was taken from [UEFA.com](https://www.uefa.com/uefaeuro/history/seasons/2020/). The config.py file contains the piece of code that creates the links. The BeautifulSoup4, aiohttp and asyncio modules were used to asynchronously issue requests and extract data from each match played in the tournament.
